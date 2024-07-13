@@ -28,7 +28,7 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
-  background-image: url('D:\internship\assignment\productapp\frontend\src\assets\19449741.jpg');
+  background-image: url('./assets/19449741.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
