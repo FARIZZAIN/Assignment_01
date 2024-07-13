@@ -28,6 +28,14 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
+  background-image: url('D:\internship\assignment\productapp\frontend\src\assets\19449741.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
 }
 
 h1 {

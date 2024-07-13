@@ -4,6 +4,11 @@ import './App.css'
 import Nav from './components/Nav'
 import Add from './components/Add'
 import View from './components/View'
+import './index.css';
+import React from 'react';
+import ReactDOM from 'react-dom';
+
+
 
 function App() {
   const [count, setCount] = useState(0)
